@@ -14,7 +14,7 @@ class Config:
 
     CLIENT_SECRET = ""
 
-    AUTH_USERS = [942731625]
+    AUTH_USERS = []
 
     VIDEO_DESCRIPTION = ""
 
